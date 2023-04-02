@@ -9,4 +9,4 @@ const getDateAfterXDays = (days) => {
 
 module.exports = getDateAfterXDays;
 
-console.log(getDateAfterXDays);
+console.log(getDateAfterXDays(1));
